@@ -14,7 +14,7 @@ const router = new VueRouter({
   linkActiveClass: 'is-active',
   routes
 })
-console.log(routes)
+
 const VueApp = new Vue({
   el: '#App',
   render: r => r(App),
