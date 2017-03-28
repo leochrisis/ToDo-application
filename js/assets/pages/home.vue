@@ -199,7 +199,7 @@ const emptyImput = {
 				) 
 			},
 
-			editImput(this.list[index], name, description) {
+			/*editImput(this.list[index], name, description) {
 				const {title, description, index} = this.imput
 				this.imput[index] = {
 					return  
@@ -208,7 +208,7 @@ const emptyImput = {
 					
 				}
 				this.closeImput()
-			}
+			}*/
 
 		}
 	}
